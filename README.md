@@ -17,8 +17,11 @@ Now Run the app.
 
 Enter your entries.
 
+Video demonstration:
 
 https://user-images.githubusercontent.com/86832615/124358873-eea87580-dc3f-11eb-9e85-acb89435d801.mp4
+
+Screenshots:
 
 ![Screenshot (381)](https://user-images.githubusercontent.com/86832615/124358899-0e3f9e00-dc40-11eb-9fbc-ec3b77c02e04.png)
 
