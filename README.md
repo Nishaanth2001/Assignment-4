@@ -1,17 +1,21 @@
 # Assignment-4
 
 
-React Redux
+React Redux.
 
-This is a simple app using redux functions
+This is a simple app using redux functions.
 
-First install all the required dependencies from the package.json file
+I have made this app for reading out dishes from the menu such that they can read it out to the customers, it has functions to easily and and remove dishes when necessary.
 
-Check whether the gradle version is 6.3 to setup the environment
+First install all the required dependencies from the package.json file.
 
-Create src folder in the Project folder form both stack screens
+Check whether the gradle version is 6.3 to setup the environment.
 
-Now Run the app and enter your entries
+Create src folder in the Project folder form both stack screens.
+
+Now Run the app.
+
+Enter your entries.
 
 
 https://user-images.githubusercontent.com/86832615/124358873-eea87580-dc3f-11eb-9e85-acb89435d801.mp4
